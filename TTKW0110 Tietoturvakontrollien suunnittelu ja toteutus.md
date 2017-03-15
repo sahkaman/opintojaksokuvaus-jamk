@@ -40,9 +40,9 @@ Finnish
 
 ## Edeltävä osaaminen / Prerequisites and co-requisites
 
-Tietoverkoissa käytettävät perusteknologiat, tietoturvateknologiat. 
+Tietoverkoissa käytettävät tietoliikenneprotokollat ja teoria tietoturvateknologioista.
 
-Basic technologies used in data networks, data security technologies. 
+Basic knowledge of protocols used in data networks and theory on data security technologies. 
 
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
