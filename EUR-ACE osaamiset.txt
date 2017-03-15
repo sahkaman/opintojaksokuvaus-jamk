@@ -1,0 +1,21 @@
+Finnish:
+
+EU-KN: EUR-ACE Tieto ja ymmärrys
+EU-EN: EUR-ACE Tekninen analyysi
+EU-EE: EUR-ACE Tekninen suunnittelu
+EU-IV: EUR-ACE Tutkimukset ja selvitykset
+EU-ER: EUR-ACE Tekniikan soveltaminen käytäntöön
+EU-MJ: EUR-ACE Päätöksenteko
+EU-CT: EUR-ACE Viestintä ja tiimityö
+EU-LL: EUR-ACE Elinikäinen oppiminen
+
+English:
+
+EU-KN: EUR-ACE Knowledge and understanding
+EU-EN: EUR-ACE Engineering Analysis
+EU-EE: EUR-ACE Engineering Design
+EU-IV: EUR-ACE Investigations
+EU-ER: EUR-ACE Engineering Practice
+EU-MJ: EUR-ACE Making Judgements
+EU-CT: EUR-ACE Communication and Team-working
+EU-LL: EUR-ACE Lifelong Learning

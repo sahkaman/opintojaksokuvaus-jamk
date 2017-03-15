@@ -1,90 +1,90 @@
-# YLEISTIEDOT
+# YLEISTIEDOT / General Information
 
-## Nimi	
+## Nimi	/ Course Unit Title
 
 Tietoverkkojen palvelunlaadun suunnittelu
 
-## Koodi
+## Koodi / Course Unit Code
 
 TTTW0220
 
-## Tyyppi	
+## Tyyppi / Type of Course Unit:
 
 Tutkinnon vaihtoehtoiset ammattiopinnot (W)
 
-## Kohderyhmä/Taso	
+## Kohderyhmä/Taso / Target Group/Level of Course Unit	
 
 AMK-tutkinto
 
-## Suositeltava opintovuosi ja lukukausi	
+## Suositeltava opintovuosi ja lukukausi / Recommended Year of Study and Semester
 
 3. vuosi, 2. lukukausi
 
-## Opintopisteet (ECTS)	
+## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
 3
 
-## Toteutuskieli	
+## Toteutuskieli / Language of Instruction:
 
 suomi
 
-## Edeltävä osaaminen	
+## Edeltävä osaaminen / Prerequisites and co-requisites
 
 Tietoverkkojen perusteet. Reititys ja kytkentäosaaminen. Käyttöjärjestelmien ja palvelimien osaaminen. Yritysverkkojen ja operaattoriverkkojen teknologioiden ymmärtäminen.
 
-## Suositeltavat muut opintojaksot
+## Suositeltavat muut opintojaksot / Recommended optional programme components
 
 Tietoverkkojen palvelunlaadun toteutus, Reaaliaikasovellukset
 
-# MITÄ OPISKELLAAN
+# MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
-## Tavoite eli oppimistulokset
+## Tavoite eli oppimistulokset / Learning Outcomes
 
 Opiskelija hallitsee teoriassa keskeisimmät tietoverkkojen palvelunlaatuun liittyvät osa-alueet: käsitteet, käytetyt tekniset toteutustavat ja yleisesti tietoverkon palvelunlaatuun liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee palvelunlaadun suunnittelun periaatteet tietoverkoissa ja osaa suunnitella siihen tekniset ratkaisut vaatimusmäärittelyjen pohjalta huomioiden rajoitteet.
 
-## Osaamiset	
+## Osaamiset / Competences
 
 EU-EE EUR-ACE Tekninen suunnittelu
 EU-ER EUR-ACE Tekniikan soveltaminen käytäntöön
 EU-KN EUR-ACE Tieto ja ymmärrys
 
-## Sisältö	
+## Sisältö / Course Contents
 
 Opintojakso sisältää yleisesti käytetyt tietoverkkojen palvelunlaadun mekanismit, kuten merkkaus, muokkaus, jonotus ja ruuhkanhallinta. Lisäksi syvennetään operaattoriteknologioihin, joissa palvelunlaatuasetuksia tarvitaan, kuten televisiokuvan monilähetys Internet Protokollassa (multicast) ja äänen välitys Internet Protokollassa (VoIP). Kurssissa myös syvennytään operaattorien runkoverkkoteknologioihin.
 
-## Opiskelumateriaali	
+## Opiskelumateriaali / Course Material
 
 Opettajan jakama materiaali
 
-## Tukimateriaali
+## Tukimateriaali / Recommended Reading Material
 
 Kurssikirja esitetään opintojakson alussa
 
-## Suoritukset
+## Suoritukset / Items of Assessment
 
 Tentti 100%
 
-## Opintojakson kuormittavuus tunteina
+## Opintojakson kuormittavuus tunteina / Student Workload in Hours
 
 + luennot 33 h
 + itsenäinen työskentely 42 h
 + muut (ekskursiot) 6 h
 
-# MITEN OPISKELLAAN
+# MITEN OPISKELLAAN / HOW LEARNING/STUDYING IS CARRIED OUT
 
-## Toteutustapa	
+## Toteutustapa	/ Mode of Delivery
 
 kontakti- ja etäopiskelu
 
-## Opiskelu-/opetusmenetelmät	
+## Opiskelu-/opetusmenetelmät / Implementation, Planned Learning activities and Teaching Methods
 
 Luennot
 
-## Työharjoittelu opintojaksossa	
+## Työharjoittelu opintojaksossa / Work Placements
 
-# MITEN ARVIOIDAAN
+# MITEN ARVIOIDAAN / HOW LEARNING WILL BE ASSESSED
 
-## Arviointimenetelmät ja -kriteerit
+## Arviointimenetelmät ja -kriteerit / Assessment Methods and Criteria
 
 Erinomainen 5: Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. Opiskelija osaa poikkeuksellisen hyvin suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
@@ -98,32 +98,32 @@ Välttävä 1: Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunl
 
 Hylätty 0: Ei hallitse aihealuetta
 
-## Arviointiasteikko
+## Arviointiasteikko / Grading Scale
 
 0-5
 
-## Hyväksilukeminen	
+## Hyväksilukeminen	/ Prior Learning Recognition Procedures
 
 Hyväksilukemisen menettelytavat kuvataan tutkintosäännössä ja opinto-oppaassa. Opintojakson opettaja antaa lisätietoa mahdollisista opintojakson erityiskäytänteistä.
 
-# LISÄTIEDOT
+# LISÄTIEDOT / ADDITIONAL INFORMATION
 
-## Vastuuhenkilö
+## Vastuuhenkilö / Lecturer in Charge
 
 Karo Saharinen
 
-## Koulutusala	
+## Koulutusala / Unit of Education
 
 Teknologia
 
-## Lisätiedot
+## Lisätiedot / Date of the Last Review
 
 Läpikäytyjä tietoverkkoprotokollia: MetroEthernet MACinMAC, VPLS, WFQ, AWFQ, DWRR, FIFO, PQ, FQ, WRR, RR, Policing, Shaping, DSCP, Type of Service, Class of Service, E2E-QoS, IPTV, Multicast ja VOIP.
 
-## Päivitetty
+## Päivitetty / Updated
 
 13.03.2017
 
-## Aikaisemmat versiot
+## Aikaisemmat versiot / Previous Versions
 
-## Uusin versio
+## Uusin versio / Newest Version
