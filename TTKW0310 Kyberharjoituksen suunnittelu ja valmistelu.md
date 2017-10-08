@@ -206,6 +206,8 @@ Teknologia
 
 ## Päivitetty / Updated
 
+8.10.2017
+
 ## Aikaisemmat versiot / Previous Versions
 
 ## Uusin versio / Newest Version
