@@ -4,6 +4,8 @@
 
 Tietoverkkojen palvelunlaadun suunnittelu
 
+Designing Quality of Service in a Data Network
+
 ## Koodi / Course Unit Code
 
 TTTW0220
@@ -12,13 +14,19 @@ TTTW0220
 
 Tutkinnon vaihtoehtoiset ammattiopinnot (W)
 
+Elective Professional Studies (W)
+
 ## Kohderyhmä/Taso / Target Group/Level of Course Unit	
 
 AMK-tutkinto
 
+Bachelor’s degree
+
 ## Suositeltava opintovuosi ja lukukausi / Recommended Year of Study and Semester
 
-3. vuosi, 2. lukukausi
+3. vuosi, 3. lukukausi ja 4. lukukausi
+
+3rd year, 3rd semester and 4th semester
 
 ## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
@@ -26,49 +34,71 @@ AMK-tutkinto
 
 ## Toteutuskieli / Language of Instruction:
 
-suomi
+Suomi
+
+Finnish
 
 ## Edeltävä osaaminen / Prerequisites and co-requisites
 
 Tietoverkkojen perusteet. Reititys ja kytkentäosaaminen. Käyttöjärjestelmien ja palvelimien osaaminen. Yritysverkkojen ja operaattoriverkkojen teknologioiden ymmärtäminen.
 
+Basics of Data Networks. Understanding of Routing and Switching. Knowledge of Operating Systems and Servers. Corporate and ISP networks.
+
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
 Tietoverkkojen palvelunlaadun toteutus, Reaaliaikasovellukset
+
+Data Network implementation for Quality of Service, Real-Time Applications
 
 # MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija hallitsee teoriassa keskeisimmät tietoverkkojen palvelunlaatuun liittyvät osa-alueet: käsitteet, käytetyt tekniset toteutustavat ja yleisesti tietoverkon palvelunlaatuun liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee palvelunlaadun suunnittelun periaatteet tietoverkoissa ja osaa suunnitella siihen tekniset ratkaisut vaatimusmäärittelyjen pohjalta huomioiden rajoitteet.
+Opiskelija osaa teorian keskeisimmistä tietoverkkojen palvelunlaadusta. Lisäksi opiskelija osaa suunnitella tietoverkkoon palvelunlaadun asetukset. 
+
+Students knows the theory of Quality of Service in data networks. The Student also knows how to design the Quality of Service settings to a Data Network.
 
 ## Osaamiset / Competences
 
-EU-EE EUR-ACE Tekninen suunnittelu
-EU-ER EUR-ACE Tekniikan soveltaminen käytäntöön
-EU-KN EUR-ACE Tieto ja ymmärrys
+EU-KN: EUR-ACE Tieto ja ymmärrys
+EU-ER: EUR-ACE Tekniikan soveltaminen käytäntöön
+EU-EE: EUR-ACE Tekninen suunnittelu
+
+EU-KN: EUR-ACE Knowledge and Understanding
+EU-ER: EUR-ACE Engineering Practice
+EU-EE: EUR-ACE Engineering Design
 
 ## Sisältö / Course Contents
 
 Opintojakso sisältää yleisesti käytetyt tietoverkkojen palvelunlaadun mekanismit, kuten merkkaus, muokkaus, jonotus ja ruuhkanhallinta. Lisäksi syvennetään operaattoriteknologioihin, joissa palvelunlaatuasetuksia tarvitaan, kuten televisiokuvan monilähetys Internet Protokollassa (multicast) ja äänen välitys Internet Protokollassa (VoIP). Kurssissa myös syvennytään operaattorien runkoverkkoteknologioihin.
 
+The course includes the commonly used Quality of Service mechanisms like marking, shaping, queueing and congestion control. Also the course delves more deeply into ISP networks where Quality of Service settings are needed such as Multicasting broadcast television and Voice over Internet Protocol. Thus we also study more of ISP core network technologies.
+
 ## Opiskelumateriaali / Course Material
 
 Opettajan jakama materiaali
+
+Material provided by the lecturer
 
 ## Tukimateriaali / Recommended Reading Material
 
 Kurssikirja esitetään opintojakson alussa
 
+Course book presented at the beginning of the course
+
 ## Suoritukset / Items of Assessment
 
 Tentti 100%
 
+Exam 100% 
+
 ## Opintojakson kuormittavuus tunteina / Student Workload in Hours
 
 + luennot 33 h
-+ itsenäinen työskentely 42 h
-+ muut (ekskursiot) 6 h
++ itsenäinen työskentely 48 h
+
++ lectures 33 h 
++ independent study 48 h 
 
 # MITEN OPISKELLAAN / HOW LEARNING/STUDYING IS CARRIED OUT
 
@@ -76,9 +106,13 @@ Tentti 100%
 
 kontakti- ja etäopiskelu
 
+face-to-face learning and distance learning
+
 ## Opiskelu-/opetusmenetelmät / Implementation, Planned Learning activities and Teaching Methods
 
 Luennot
+
+Lectures
 
 ## Työharjoittelu opintojaksossa / Work Placements
 
@@ -86,17 +120,49 @@ Luennot
 
 ## Arviointimenetelmät ja -kriteerit / Assessment Methods and Criteria
 
-Erinomainen 5: Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. Opiskelija osaa poikkeuksellisen hyvin suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
+Erinomainen 5: 
+Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osaa poikkeuksellisen hyvin suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
-Kiitettävä 4: Opiskelija osoittaa hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teorian Opiskelija osaa perusteellisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
+Kiitettävä 4: 
+Opiskelija osoittaa hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teorian.
+Opiskelija osaa perusteellisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
-Hyvä 3: Opiskelija osoittaa hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teorian. Opiskelija osaa monipuolisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
+Hyvä 3: 
+Opiskelija osoittaa hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osaa monipuolisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
-Tyydyttävä 2: Opiskelija osoittaa hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teorian. Opiskelija osaa suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
+Tyydyttävä 2: 
+Opiskelija osoittaa hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osaa suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
-Välttävä 1: Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teoriasta. Opiskelija osaa suunnitella jotain tietoverkkojen tarvitsemista palvelunlaatuasetuksista. 
+Välttävä 1: 
+Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teoriasta. 
+Opiskelija osaa suunnitella jotain tietoverkkojen tarvitsemista palvelunlaatuasetuksista. 
 
 Hylätty 0: Ei hallitse aihealuetta
+
+Excellent 5:
+The student shows that he or she knows and understands Quality of Service in data networks exceptionally. 
+The student can exceptionally design Quality of Service settings needed in data networks.
+
+Very good 4: 
+The student shows that he or she knows and understands Quality of Service in data networks very well. 
+The student can commendably design the Quality of Service settings needed in data networks.
+
+Good 3: 
+The student shows that he or she knows and understands Quality of Service in data networks well. 
+The student can design the Quality of Service settings needed in data networks.
+
+Satisfactory 2: 
+The student shows that he or she knows and understands basics of Quality of Service in data networks. 
+The student can design the basic Quality of Service settings needed in data networks.
+
+Sufficient 1: 
+The student shows that he or she knows and understands something about Quality of Service in data networks.
+The student can design some Quality of Service settings needed in data networks.
+
+Fail 0: The student does not meet the criteria set for the course.
 
 ## Arviointiasteikko / Grading Scale
 
@@ -105,6 +171,8 @@ Hylätty 0: Ei hallitse aihealuetta
 ## Hyväksilukeminen	/ Prior Learning Recognition Procedures
 
 Hyväksilukemisen menettelytavat kuvataan tutkintosäännössä ja opinto-oppaassa. Opintojakson opettaja antaa lisätietoa mahdollisista opintojakson erityiskäytänteistä.
+
+Accreditation procedures are described in the Degree Regulations and Study Guide. Further information about possible course-specific arrangements is available from Course tutor.
 
 # LISÄTIEDOT / ADDITIONAL INFORMATION
 
@@ -120,9 +188,11 @@ Teknologia
 
 Läpikäytyjä tietoverkkoprotokollia: MetroEthernet MACinMAC, VPLS, WFQ, AWFQ, DWRR, FIFO, PQ, FQ, WRR, RR, Policing, Shaping, DSCP, Type of Service, Class of Service, E2E-QoS, IPTV, Multicast ja VOIP.
 
+Network protocols studied: MetroEthernet MACinMAC, VPLS, WFQ, AWFQ, DWRR, FIFO, PQ, FQ, WRR, RR, Policing, Shaping, DSCP, Type of Service, Class of Service, E2E-QoS, IPTV, Multicast ja VOIP. 
+
 ## Päivitetty / Updated
 
-13.03.2017
+8.10.2017
 
 ## Aikaisemmat versiot / Previous Versions
 

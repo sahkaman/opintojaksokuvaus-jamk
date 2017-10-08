@@ -12,7 +12,7 @@ TTKW0110
 
 ## Tyyppi / Type of Course Unit:
 
-W = tutkinnon sivuaineopinnot 
+Tutkinnon vaihtoehtoiset ammattiopinnot (W)
 
 minor professional studies
 
@@ -20,7 +20,7 @@ minor professional studies
 
 AMK-tutkinto
 
-bachelor’s degree
+Bachelor’s degree
 
 ## Suositeltava opintovuosi ja lukukausi / Recommended Year of Study and Semester
 
@@ -54,9 +54,11 @@ Corporate infrastructure services, Designing and preparing a Cyber Exercise, Imp
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija oppii tuntemaan eri tietoturvakontrollien merkityksen yrityksien kriittisien järjestelmien suojaamisessa sekä oppii toteuttamaan eri tietoturvakontrolleja osaksi laajempaa kokonaisuutta.
+Opiskelija ymmärtää eri tietoturvakontrollien merkityksen yritysten kriittisten tietoteknisten järjestelmien suojaamisessa. 
+Opiskelija osaa toteuttaa eri tietoturvakontrolleja suojellakseen yrityksen kriittisiä tietoteknisiä järjestelmiä.
 
-The student understands the meaning of various data security controls in protection of critical systems and learns to implement various data security controls as a part of a larger environment.
+The student understands the meaning of various data security controls in the protection of a companys critical information systems. 
+The students knows how to implement various data security controls to protect a companys critical information systems. 
 
 ## Osaamiset / Competences
 
@@ -126,55 +128,55 @@ Lectures and practical exercises
 Erinomainen 5: 
 Opiskelija osoittaa käytännössä hallitsevansa tavallisesta poikkeavasti tietoturvakontrollien suunnitteluun sekä toteutukseen liittyvän teorian. 
 Opiskelija osaa poikkeuksellisen hyvin suunnitella ympäristön tarvitsemat tietoturvakontrollit.
-Opiskelija osaa moitteettomasti käyttöönottaa suunnittelemansa tietoturvakontrollit ympäristössä.
+Opiskelija osaa moitteettomasti käyttöönottaa suunnittelemansa tietoturvakontrollit teknisessä ympäristössä.
 
  
 Kiitettävä 4: 
 Opiskelija osoittaa käytännössä hallitsevansa perusteellisesti tietoturvakontrollien suunnitteluun sekä toteutukseen liittyvän teorian. 
 Opiskelija osaa perusteellisesti hyvin suunnitella ympäristön tarvitsemat tietoturvakontrollit.
-Opiskelija osaa perusteellisesti käyttöönottaa suunnittelemansa tietoturvakontrollit ympäristössä.
+Opiskelija osaa perusteellisesti käyttöönottaa suunnittelemansa tietoturvakontrollit teknisessä ympäristössä.
 
 Hyvä 3: 
 Opiskelija osoittaa käytännössä hallitsevansa monipuolisesti tietoturvakontrollien suunnitteluun sekä toteutukseen liittyvän teorian. 
 Opiskelija osaa monipuolisesti hyvin suunnitella ympäristön tarvitsemat tietoturvakontrollit.
-Opiskelija osaa monipuolisesti käyttöönottaa suunnittelemansa tietoturvakontrollit ympäristössä.
+Opiskelija osaa monipuolisesti käyttöönottaa suunnittelemansa tietoturvakontrollit teknisessä ympäristössä.
 
 Tyydyttävä 2: 
 Opiskelija osoittaa käytännössä hallitsevansa tietoturvakontrollien suunnitteluun sekä toteutukseen liittyvän teorian. 
 Opiskelija osaa suunnitella ympäristön tarvitsemat tietoturvakontrollit.
-Opiskelija osaa käyttöönottaa suunnittelemansa tietoturvakontrollit ympäristössä.
+Opiskelija osaa käyttöönottaa suunnittelemansa tietoturvakontrollit teknisessä ympäristössä.
 
 Välttävä 1: 
 Opiskelija osoittaa käytännössä hallitsevansa jotain tietoturvakontrollien suunnitteluun sekä toteutukseen liittyvästä teoriasta. 
 Opiskelija osaa suunnitella jotain ympäristön tarvitsemista tietoturvakontrolleista.
-Opiskelija osaa käyttöönottaa joitain suunnittelemiansa tietoturvakontrolleja ympäristössä.
+Opiskelija osaa käyttöönottaa joitain suunnittelemiansa tietoturvakontrolleja teknisessä ympäristössä.
 
 Hylätty 0: Ei hallitse aihealuetta
 
 Excellent 5: 
 The student shows in practice that he or she knows and understands theory on data security control design and implementation in an environment exceptionally. 
 The student can exceptionally design data security controls needed in an environment. 
-The student can exceptionally well implement his or her data security control designs in practice in a environment.
+The student can exceptionally well implement his or her data security control designs in practice in a technical environment.
 
 Very good 4: 
 The student shows in practice that he or she knows and understands theory on data security control design and implementation in an environment very well. 
 The student can commendably design data security controls needed in an environment. 
-The student can commendably implement his or her data security control designs in practice in a environment.
+The student can commendably implement his or her data security control designs in practice in a technical environment.
 
 Good 3: 
 The student shows in practice that he or she knows and understands theory on data security control design and implementation in an environment well. 
 The student can design data security controls needed in an environment. 
-The student can implement his or her data security control designs in practice in a environment.
+The student can implement his or her data security control designs in practice in a technical environment.
  
 Satisfactory 2: 
 The student shows in practice that he or she knows and understands the basics of data security control design and implementation in an environment. 
 The student can design the basic data security controls needed in an environment. 
-The student can implement the basics of his or her data security control designs in practice in a environment.
+The student can implement the basics of his or her data security control designs in practice in a technical environment.
 
 Sufficient 1: 
 The student shows in practice that he or she knows and understands something about the theory on data security control design and implementation in an environment. 
 The student can design some data security controls needed in an environment. 
-The student can implement some his or her data security control designs in practice in a environment.
+The student can implement some his or her data security control designs in practice in a technical environment.
 
 Fail 0: The student does not meet the minimum criteria set for the course.
 
@@ -204,7 +206,7 @@ Technology
 
 ## Päivitetty / Updated
 
-15.3.2017
+8.10.2017
 
 ## Aikaisemmat versiot / Previous Versions
 
