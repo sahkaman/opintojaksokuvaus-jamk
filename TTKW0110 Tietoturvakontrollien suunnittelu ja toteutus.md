@@ -46,19 +46,21 @@ Basic knowledge of protocols used in data networks and theory on data security t
 
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
-Yrityksen infrastruktuuripalvelut, Kyberharjoituksen suunnittelu ja valmistelu, Kyberharjoituksen toteutus
+TTTS0400 Linux Servers
+TTTS0500 Windows Servers
+TTTS0600 Yritysverkot
 
-Corporate infrastructure services, Designing and preparing a Cyber Exercise, Implementation of a Cyber Exercise 
+TTTS0400 Linux Servers
+TTTS0500 Windows Servers
+TTTS0600 Corporate Networks
 
 # MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija ymmärtää eri tietoturvakontrollien merkityksen yritysten kriittisten tietoteknisten järjestelmien suojaamisessa. 
-Opiskelija osaa toteuttaa eri tietoturvakontrolleja suojellakseen yrityksen kriittisiä tietoteknisiä järjestelmiä.
+Opiskelija ymmärtää eri tietoturvakontrollien merkityksen yritysten kriittisten tietoteknisten järjestelmien suojaamisessa. Opiskelija käsittää teknisen auditoinnin tarkoituksen ympäristölle. Opiskelija osaa toteuttaa eri tietoturvakontrolleja suojellakseen yrityksen kriittisiä tietoteknisiä järjestelmiä. 
 
-The student understands the meaning of various data security controls in the protection of a companys critical information systems. 
-The students knows how to implement various data security controls to protect a companys critical information systems. 
+The student understands the meaning of various data security controls in the protection of a companys critical information systems. Student understands the purpose of a technical audit for a environment. The students knows how to implement various data security controls to protect a companys critical information systems. 
 
 ## Osaamiset / Competences
 
@@ -72,9 +74,19 @@ EU-ER: EUR-ACE Engineering Practice
 
 ## Sisältö / Course Contents
 
-Opintojakso sisältää eri tietoturvakontrollien suunnittelun ja toteutuksen kuvitteelliseen virtualisoituun kohdeympäristöön. Lisäksi opintojaksolla käydään läpi eri tietoturvakontrollien riippuvuuksia ja kyvykkyyksiä sekä operointia.
+Opintojakso sisältää eri tietoturvakontrollien suunnittelun ja toteutuksen kuvitteelliseen virtualisoituun kohdeympäristöön. Lisäksi opintojaksolla käydään läpi eri tietoturvakontrollien riippuvuuksia ja kyvykkyyksiä sekä operointia. E.g. 
 
-The course contains design and implementation of various data security controls in a real, virtualized network environment, but with a imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations.
++ Firewalls and network segmenting
++ Remote workers and Virtual Private Network -connections
++ Hardening networking equipment
++ Public Key Infrastructure
+
+The course contains design and implementation of various data security controls in a real, virtualized network environment, but with a imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations. Esimerkiksi:
+
++ Palomuurit ja verkon segmentointi
++ etäyhteysratkasut työntekijöille
++ aktiivilaitteiden kovennus
++ julkisen avaimen infrastruktuuri
 
 ## Opiskelumateriaali / Course Material
 

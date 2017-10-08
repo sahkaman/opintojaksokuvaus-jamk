@@ -46,9 +46,13 @@ Basics of Data Networks. Understanding of Routing and Switching. Knowledge of Op
 
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
-Tietoverkkojen palvelunlaadun toteutus, Reaaliaikasovellukset
+TTTS0600 Yritysverkot
+TTTS0700 Operaattoriverkot
+TTTW0230 Tietoverkkojen palvelunlaadun toteutus
 
-Data Network implementation for Quality of Service, Real-Time Applications
+TTTS0600 Corporate Networks
+TTTS0700 Internet Service Provider Networks
+TTTW0230 Implementing Quality of Service in a Data Network
 
 # MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
@@ -72,7 +76,7 @@ EU-EE: EUR-ACE Engineering Design
 
 Opintojakso sisältää yleisesti käytetyt tietoverkkojen palvelunlaadun mekanismit, kuten merkkaus, muokkaus, jonotus ja ruuhkanhallinta. Lisäksi syvennetään operaattoriteknologioihin, joissa palvelunlaatuasetuksia tarvitaan, kuten televisiokuvan monilähetys Internet Protokollassa (multicast) ja äänen välitys Internet Protokollassa (VoIP). Kurssissa myös syvennytään operaattorien runkoverkkoteknologioihin.
 
-The course includes the commonly used Quality of Service mechanisms like marking, shaping, queueing and congestion control. Also the course delves more deeply into ISP networks where Quality of Service settings are needed such as Multicasting broadcast television and Voice over Internet Protocol. Thus we also study more of ISP core network technologies.
+The course includes the commonly used Quality of Service mechanisms like marking, shaping/limiting, queueing and congestion control. Also the course delves more deeply into ISP networks where Quality of Service settings are needed such as Multicasting broadcast television and Voice over Internet Protocol. Thus we also study more of ISP core network technologies.
 
 ## Opiskelumateriaali / Course Material
 
@@ -120,6 +124,8 @@ Lectures
 
 ## Arviointimenetelmät ja -kriteerit / Assessment Methods and Criteria
 
+Kurssi arvioidaan kokeen perusteella.
+
 Erinomainen 5: 
 Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. 
 Opiskelija osaa poikkeuksellisen hyvin suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
@@ -141,6 +147,8 @@ Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyv�
 Opiskelija osaa suunnitella jotain tietoverkkojen tarvitsemista palvelunlaatuasetuksista. 
 
 Hylätty 0: Ei hallitse aihealuetta
+
+The course is evaluated with a theory exam.
 
 Excellent 5:
 The student shows that he or she knows and understands Quality of Service in data networks exceptionally. 
@@ -183,6 +191,8 @@ Karo Saharinen
 ## Koulutusala / Unit of Education
 
 Teknologia
+
+Technology
 
 ## Lisätiedot / Date of the Last Review
 

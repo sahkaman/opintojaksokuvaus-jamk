@@ -160,6 +160,8 @@ Karo Saharinen
 
 Teknologia
 
+Technology
+
 ## Lisätiedot / Date of the Last Review
 
 ## Päivitetty / Updated

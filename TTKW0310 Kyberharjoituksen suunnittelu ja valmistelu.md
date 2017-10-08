@@ -47,20 +47,20 @@ The student must have completed his (her) professional studies of his (her) spec
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
 TTTS0600 Yritysverkot
-TTTS0500 Linux Servers (tai Windows)
+TTTS0400 Linux Servers (tai Windows)
 TTZC0600 Cyber Security
 
 TTTS0600 Corporation Networks
-TTTS0500 Linux Servers (or Windows)
+TTTS0400 Linux Servers (or Windows)
 TTZC0600 Cyber Security
 
 # MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija hallitsee keskeisimmät kyberharjoituksen suunnitteluun ja valmisteluun liittyvät osa-alueet: käsitteet, käytetyt toteutustavat ja yleisen harjoitukseen liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee harjoituksen suunnittelun periaatteet ja osaa suunnitella yrityksen henkilöstölle sopivan harjoitusmallin vaatimusmäärittelyjen pohjalta huomioiden rajoitteet. 
+Opiskelija hallitsee keskeisimmät kyberharjoituksen suunnitteluun ja valmisteluun liittyvät osa-alueet: käsitteet, käytetyt toteutustavat ja yleisen harjoitukseen liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee harjoituksen suunnittelun periaatteet ja osaa suunnitella yrityksen henkilöstölle sopivan harjoitusmallin vaatimusmäärittelyjen pohjalta. 
 
-The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable structural model for company personnel taking into account the limitations caused by requirement definition. 
+The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable structural model for company personnel. 
 
 ## Osaamiset / Competences
 
@@ -76,7 +76,7 @@ EU-CT: EUR-ACE Communication and Team-working
 
 Opintojakso sisältää yleisesti kyberharjoituksen käsitteet ja vaatimukset. Opintojaksolla tutustutaan harjoituksen järjestämiseen ja harjoituksessa toimimiseen eri roolien kautta. Kurssilla suunnitellaan ”Kyber harjoituksen toteutus” –kurssin harjoituksen rakenne ja toimijoiden roolit.
 
-The course consists of general concepts and requirements for a cyber exercise. Organizing and acting in different roles in the exercise are included in the course. The exercise structure and roles of participants are designed in the course for the implementation of Cyber Exercise course. 
+The course consists of general concepts and requirements for a Cyber Exercise. Organizing and acting in different roles in the exercise are included in the course. The exercise structure and roles of participants are designed in the course for the implementation of Cyber Exercise course. 
 
 ## Opiskelumateriaali / Course Material
 
@@ -201,6 +201,8 @@ Karo Saharinen
 ## Koulutusala / Unit of Education
 
 Teknologia
+
+Technology
 
 ## Lisätiedot / Date of the Last Review
 
