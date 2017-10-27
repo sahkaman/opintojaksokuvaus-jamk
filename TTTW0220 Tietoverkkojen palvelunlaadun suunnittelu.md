@@ -100,7 +100,7 @@ Hylätty 0: Ei hallitse aihealuetta
 
 ## Arviointiasteikko / Grading Scale
 
-0-55
+0-5
 
 ## Hyväksilukeminen	/ Prior Learning Recognition Procedures
 

@@ -1,42 +1,42 @@
-# YLEISTIEDOT
+# YLEISTIEDOT / General Information
 
-## Nimi	
+## Nimi	/ Course Unit Title
 
 Kyberturvallisuus
 
-## Koodi
+## Koodi / Course Unit Code
 
 TTZC0600
 
-## Tyyppi	
+## Tyyppi / Type of Course Unit:
 
 Tutkinnon ydinopinnot (S)
 
-## Kohderyhmä/Taso	
+## Kohderyhmä/Taso / Target Group/Level of Course Unit	
 
 AMK-tutkinto
 
-## Suositeltava opintovuosi ja lukukausi	
+## Suositeltava opintovuosi ja lukukausi / Recommended Year of Study and Semester
 
 2. vuosi, 2. lukukausi
 
-## Opintopisteet (ECTS)	
+## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
 4
 
-## Toteutuskieli	
+## Toteutuskieli / Language of Instruction:
 
 suomi
 
-## Edeltävä osaaminen	
+## Edeltävä osaaminen / Prerequisites and co-requisites
 
-## Suositeltavat muut opintojaksot
+## Suositeltavat muut opintojaksot / Recommended optional programme components
 
 Johdatus Internet teknologioihin, Digitaalitekniikka, Tietokannat, Ohjelmoinnin perusteet
 
-# MITÄ OPISKELLAAN
+# MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
 
-## Tavoite eli oppimistulokset
+## Tavoite eli oppimistulokset / Learning Outcomes
 
 Opiskelija hallitsee keskeisimmät kyberturvallisuuteen liittyvät osa-alueet: käsitteet, standardit ja vaatimukset. Opiskelija tutustuu teknisiin algoritmitmeihin ohjelmoinnissa, joilla taataan tiedon eheys. Opiskelija tuntee yleiset tietoliikenteessä käytetyt turvamekanismit luotettavuuteen ja saatavuuteen liittyen. Opiskelija hallitsee turvallisuuden suunnittelun periaatteet ja osaa suunnitella yritykselle sopivat tietoturvakontrollit vaatimusmäärittelyjen pohjalta huomioiden rajoitteet.
 
@@ -44,7 +44,7 @@ Opiskelija hallitsee keskeisimmät kyberturvallisuuteen liittyvät osa-alueet: k
 
 EU-KN EUR-ACE Tieto ja ymmärrys
 
-## Sisältö	
+## Sisältö / Course Contents
 
 Opintojakso sisältää yleisesti kyberturvallisuuden ajankohtaiset standardit ja vaatimukset. Opiskelija hallitsee yrityksen tiedon turvaamisen käsitteet, kuten luottamuksellisuus, eheys ja saatavuus. Opiskelija tuntee tekniset kontrollit, joilla kyseisiin käsitteisiin vaikutetaan. Opintojaksolla tutustutaan yritystapausten kautta liiketoiminan riippuvuuteen tietotekniikasta ja tietoverkoista. Samalla analysoidaan yritysten liiketoiminnan haavoittuvuutta ohjelmistoihin kohdistuvien sähköisten hyökkäysten kautta. Sähköisiä hyökkäystyökaluihin tutustutaan harjoitustyönkautta.
 
