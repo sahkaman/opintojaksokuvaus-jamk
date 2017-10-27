@@ -39,20 +39,14 @@ finnish
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
 TTZC0500 Digital Technology
-
 TTZC0800 Databases
-
 TTZC0200 Basics of Programming
-
 TTZC0100 Introduction into Internet Technologies
 
 
 TTZC0100 Johdatus Internet teknologioihin
-
 TTZC0500 Digitaalitekniikka
-
 TTZC0800 Tietokannat
-
 TTZC0200 Ohjelmoinnin perusteet
 
 # MITÄ OPISKELLAAN / WHAT IS GOING TO BE LEARNED/STUDIED
@@ -69,7 +63,7 @@ EU-KN EUR-ACE Tieto ja ymmärrys
 
 ## Sisältö / Course Contents
 
-Opintojakso sisältää yleisesti kyberturvallisuuden ajankohtaiset standardit ja vaatimukset. Opiskelija hallitsee yrityksen tiedon turvaamisen käsitteet, kuten luottamuksellisuus, eheys ja saatavuus. Opiskelija tuntee tekniset kontrollit, joilla kyseisiin käsitteisiin vaikutetaan. Opintojaksolla tutustutaan yritystapausten kautta liiketoiminan riippuvuuteen tietotekniikasta ja tietoverkoista. Samalla analysoidaan yritysten liiketoiminnan haavoittuvuutta ohjelmistoihin kohdistuvien sähköisten hyökkäysten kautta. Sähköisiä hyökkäystyökaluihin tutustutaan harjoitustyönkautta.
+Opintojakso sisältää yleisesti kyberturvallisuuden ajankohtaiset standardit ja vaatimukset. Opiskelija hallitsee yrityksen tiedon turvaamisen käsitteet, kuten luottamuksellisuus, eheys ja saatavuus. Opiskelija tuntee tekniset kontrollit, joilla kyseisiin käsitteisiin vaikutetaan. Opintojaksolla tutustutaan yritystapausten kautta liiketoiminan riippuvuuteen tietotekniikasta ja tietoverkoista. Samalla analysoidaan yritysten liiketoiminnan haavoittuvuutta ohjelmistoihin kohdistuvien sähköisten hyökkäysten kautta. Sähköisiä hyökkäystyökaluihin tutustutaan harjoitustyön kautta.
 
 The course includes the topical standards and requirements of cyber security. The student masters the concepts of securing data confidenciality, integrity and availability. The student knows the technical concepts how to affect those concepts. The course uses case studies to demonstrate the interdependency of information technology and networks. Vulnerability of companies is analyzed through electronic attacks on software. Electronic attack tools are studied with the given course assignments. 
 
