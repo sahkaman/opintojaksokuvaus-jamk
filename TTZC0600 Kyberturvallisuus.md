@@ -53,9 +53,9 @@ TTZC0200 Ohjelmoinnin perusteet
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija hallitsee keskeisimmät kyberturvallisuuteen liittyvät osa-alueet: käsitteet, standardit ja vaatimukset. Opiskelija tutustuu teknisiin algoritmitmeihin ohjelmoinnissa, joilla taataan tiedon eheys. Opiskelija tuntee yleiset tietoliikenteessä käytetyt turvamekanismit luotettavuuteen ja saatavuuteen liittyen. Opiskelija hallitsee turvallisuuden suunnittelun periaatteet ja osaa suunnitella yritykselle sopivat tietoturvakontrollit vaatimusmäärittelyjen pohjalta huomioiden rajoitteet.
+Opiskelija hallitsee keskeisimmät kyberturvallisuuteen liittyvät osa-alueet: käsitteet (luottamuksellisuus, eheys ja saatavuus), standardit ja vaatimukset. Opiskelija tutustuu teknisiin algoritmitmeihin ohjelmoinnissa, joilla taataan tiedon eheys. Opiskelija tuntee yleiset tietoliikenteessä käytetyt turvamekanismit luotettavuuteen ja saatavuuteen liittyen. Opiskelija pystyy analysoimaan hyökkäystyökalujen vaikutukset yrityksen liiketoimintaan. Opiskelija hallitsee turvallisuuden suunnittelun periaatteet ja osaa suunnitella yritykselle sopivat tietoturvakontrollit.
 
-The student masters the most essential areas of cyber security: concepts, standards and requirements. The student studies technical algorithms in programming, which assures the integrity of data. The student knows the most common security mechanisms concerning reliability and availability in telecommunication. The student masters the principles regarding security design and is able to design for a company suitable data security controls based on requirement definition taking into account restrictions. 
+The student masters the most essential areas of cyber security: concepts (confidentiality, integrity and availability), standards and requirements. The student studies technical algorithms in programming, which assures the integrity of data. The student knows the most common security mechanisms concerning reliability and availability in telecommunication. The student can analyze the effect of attack tools on the business of a company. The student masters the principles regarding security design and is able to design suitable data security controls for a company.
 
 ## Osaamiset	
 
@@ -63,9 +63,9 @@ EU-KN EUR-ACE Tieto ja ymmärrys
 
 ## Sisältö / Course Contents
 
-Opintojakso sisältää yleisesti kyberturvallisuuden ajankohtaiset standardit ja vaatimukset. Opiskelija hallitsee yrityksen tiedon turvaamisen käsitteet, kuten luottamuksellisuus, eheys ja saatavuus. Opiskelija tuntee tekniset kontrollit, joilla kyseisiin käsitteisiin vaikutetaan. Opintojaksolla tutustutaan yritystapausten kautta liiketoiminan riippuvuuteen tietotekniikasta ja tietoverkoista. Samalla analysoidaan yritysten liiketoiminnan haavoittuvuutta ohjelmistoihin kohdistuvien sähköisten hyökkäysten kautta. Sähköisiä hyökkäystyökaluihin tutustutaan harjoitustyön kautta.
+Opintojakso sisältää yleisesti kyberturvallisuuden ajankohtaiset standardit ja vaatimukset. Opintojaksolla tutustutaan yritystapausten kautta liiketoiminan riippuvuuteen tietotekniikasta ja tietoverkoista. Samalla analysoidaan yritysten liiketoiminnan haavoittuvuutta sähköisen vaikuttamisen kautta. Sähköisiä hyökkäystyökaluihin tutustutaan harjoitustyön kautta.
 
-The course includes the topical standards and requirements of cyber security. The student masters the concepts of securing data confidenciality, integrity and availability. The student knows the technical concepts how to affect those concepts. The course uses case studies to demonstrate the interdependency of information technology and networks. Vulnerability of companies is analyzed through electronic attacks on software. Electronic attack tools are studied with the given course assignments. 
+The course includes the topical standards and requirements of cyber security. The course uses case studies to demonstrate the dependency of business on information technology and communication networks. Vulnerability of companies is analyzed through different electronic attacks. Electronic attack tools are studied with the given course assignments. 
 
 ## Opiskelumateriaali / Course Material
 
