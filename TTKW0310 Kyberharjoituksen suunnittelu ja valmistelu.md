@@ -58,9 +58,9 @@ TTZC0600 Cyber Security
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija hallitsee keskeisimmät kyberharjoituksen suunnitteluun ja valmisteluun liittyvät osa-alueet: käsitteet, käytetyt toteutustavat ja yleisen harjoitukseen liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee harjoituksen suunnittelun periaatteet ja osaa suunnitella yrityksen henkilöstölle sopivan harjoitusmallin vaatimusmäärittelyjen pohjalta. 
+Opiskelija hallitsee keskeisimmät kyberharjoituksen suunnitteluun ja valmisteluun liittyvät osa-alueet: käsitteet, käytetyt toteutustavat ja yleiseen harjoitukseen liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee harjoituksen suunnittelun periaatteet ja osaa suunnitella yrityksen henkilöstölle sopivan harjoitusmallin. 
 
-The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable structural model for company personnel. 
+The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable exercise model for the personnel.of the company.
 
 ## Osaamiset / Competences
 
@@ -74,9 +74,9 @@ EU-CT: EUR-ACE Communication and Team-working
 
 ## Sisältö / Course Contents
 
-Opintojakso sisältää yleisesti kyberharjoituksen käsitteet ja vaatimukset. Opintojaksolla tutustutaan harjoituksen järjestämiseen ja harjoituksessa toimimiseen eri roolien kautta. Kurssilla suunnitellaan ”Kyber harjoituksen toteutus” –kurssin harjoituksen rakenne ja toimijoiden roolit.
+Opintojakso sisältää yleisesti kyberharjoituksen käsitteet ja vaatimukset. Opintojaksolla tutustutaan harjoituksen järjestämiseen ja harjoituksessa toimimiseen eri roolien (järjestäjä, puolustaja, hyökkääjä) kautta. Kurssilla suunnitellaan ”Kyberharjoituksen toteutus” –kurssin harjoituksen rakenne ja toimijoiden roolit.
 
-The course consists of general concepts and requirements for a Cyber Exercise. Organizing and acting in different roles in the exercise are included in the course. The exercise structure and roles of participants are designed in the course for the implementation of Cyber Exercise course. 
+The course consists of general concepts and requirements for a Cyber Exercise. Organizing and acting in different roles (organizing, defending and attacking) in the exercise are included in the course. The exercise structure and roles of participants are designed in the course for the implementation of Cyber Exercise course. 
 
 ## Opiskelumateriaali / Course Material
 
