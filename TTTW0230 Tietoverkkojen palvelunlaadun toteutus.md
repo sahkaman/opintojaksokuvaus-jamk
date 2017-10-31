@@ -125,23 +125,23 @@ Lectures
 Kurssi arvioidaan ryhmätöiden kirjallisten palautusten perusteella. Vertais- ja itsearviointi annetaan opiskelijoiden toimesta perustuen ryhmän suoriutumiseen tehtävänannoista.
 
 Erinomainen 5: 
-Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
+Opiskelija osoittaa ryhmätyössä hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
 Opiskelija osaa poikkeuksellisen hyvin toteuttaa tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Kiitettävä 4: 
-Opiskelija osoittaa hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation.
+Opiskelija osoittaa ryhmätyössä hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation.
 Opiskelija osaa perusteellisesti toteuttaa tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Hyvä 3: 
-Opiskelija osoittaa hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
+Opiskelija osoittaa ryhmätyössä hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
 Opiskelija osaa monipuolisesti toteuttaa tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Tyydyttävä 2: 
-Opiskelija osoittaa hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
+Opiskelija osoittaa ryhmätyössä hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teknisen implementaation. 
 Opiskelija osaa toteuttaa tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Välttävä 1: 
-Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teknisestä implementaatiosta. 
+Opiskelija osoittaa ryhmätyössä hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teknisestä implementaatiosta. 
 Opiskelija osaa toteuttaa jotain tietoverkkojen tarvitsemista palvelunlaatuasetuksista. 
 
 Hylätty 0: Ei hallitse aihealuetta
@@ -149,23 +149,23 @@ Hylätty 0: Ei hallitse aihealuetta
 The course is evaluated by written reports based on the group assignments. Peer- & Self-evaluation is given by students based on the performance within the group.
 
 Excellent 5:
-The student shows that he or she knows and can implement Quality of Service in data networks exceptionally. 
+The student shows in the group assignment that he or she knows and can implement Quality of Service in data networks exceptionally. 
 The student can exceptionally take into use Quality of Service settings needed in data networks.
 
 Very good 4: 
-The student shows that he or she knows and can implement Quality of Service in data networks very well. 
+The student shows in the group assignment that he or she knows and can implement Quality of Service in data networks very well. 
 The student can commendably take into use the Quality of Service settings needed in data networks.
 
 Good 3: 
-The student shows that he or she knows and can implement Quality of Service in data networks well. 
+The student shows in the group assignment that he or she knows and can implement Quality of Service in data networks well. 
 The student can take into use the Quality of Service settings needed in data networks.
 
 Satisfactory 2: 
-The student shows that he or she knows and  can implement basics of Quality of Service in data networks. 
+The student shows in the group assignment that he or she knows and  can implement basics of Quality of Service in data networks. 
 The student can take into use the basic Quality of Service settings needed in data networks.
 
 Sufficient 1: 
-The student shows that he or she knows and can implement something about Quality of Service in data networks.
+The student shows in the group assignment that he or she knows and can implement something about Quality of Service in data networks.
 The student can take into use some Quality of Service settings needed in data networks.
 
 Fail 0: The student does not meet the criteria set for the course.

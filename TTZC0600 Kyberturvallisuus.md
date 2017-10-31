@@ -115,27 +115,27 @@ Lectures, practical exercises and an assignment
 
 ## Toteutustapa	/ Mode of Delivery
 
-Erinomainen 5: Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on kattava, ymmärrettävä ja virheetön. Harjoitustyöstä on pidetty sujuva esitys. 
+Erinomainen 5: Opiskelija osoittaa teoriakokeessa hallitsevansa tavallisesta poikkeavasti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on kattava, ymmärrettävä ja virheetön. Harjoitustyöstä on pidetty sujuva esitys. 
 
-Kiitettävä 4: Opiskelija osoittaa hallitsevansa perusteellisesti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on kattavaa ja harjoitustyöstä on pidetty sujuva esitys. 
+Kiitettävä 4: Opiskelija osoittaa teoriakokeessa hallitsevansa perusteellisesti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on kattavaa ja harjoitustyöstä on pidetty sujuva esitys. 
 
-Hyvä 3: Opiskelija osoittaa hallitsevansa monipuolisesti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on melko kattavaa ja harjoitustyöstä on pidetty esitys. 
+Hyvä 3: Opiskelija osoittaa teoriakokeessa hallitsevansa monipuolisesti kyberturvallisuuteen liittyvän teorian. Harjoitustyön dokumentaatio on melko kattavaa ja harjoitustyöstä on pidetty esitys. 
 
-Tyydyttävä 2: Opiskelija osoittaa hallitsevansa kyberturvallisuuteen liittyvän teorian. Harjoitustyön sisältää vaadittuja asioita. Harjoitustyö on esitelty. 
+Tyydyttävä 2: Opiskelija osoittaa teoriakokeessa hallitsevansa kyberturvallisuuteen liittyvän teorian. Harjoitustyön sisältää vaadittuja asioita. Harjoitustyö on esitelty. 
 
-Välttävä 1: Opiskelija osoittaa hallitsevansa jotain kyberturvallisuuteen liittyvästä teoriasta. Harjoitustyö on palautettu, mutta sisältää puutteita. Harjoitustyö on esitelty. 
+Välttävä 1: Opiskelija osoittaa teoriakokeessa hallitsevansa jotain kyberturvallisuuteen liittyvästä teoriasta. Harjoitustyö on palautettu, mutta sisältää puutteita. Harjoitustyö on esitelty. 
 
-Hylätty 0: Ei hallitse aihealuetta
+Hylätty 0: Ei hallitse aihealuetta.
 
-Excellent 5: The student shows that he or she knows and understands cyber security theory exceptionally. Practice work documentation is thorough, flawless and understandable. Presentation on the practice work has been kept fluently.
+Excellent 5: The student shows in a theory exam that he or she knows and understands cyber security theory exceptionally. Practice work documentation is thorough, flawless and understandable. Presentation on the practice work has been kept fluently.
 
-Very good 4: The student shows that he or she knows and understands cyber security theory very well. Practice work documentation is thorough and the presentation has been kept fluently.
+Very good 4: The student shows in a theory exam that he or she knows and understands cyber security theory very well. Practice work documentation is thorough and the presentation has been kept fluently.
 
-Good 3: The student shows that he or she knows and understands cyber security theory well. Practice work documentation is done well and the presentation has been kept.
+Good 3: The student shows in a theory exam that he or she knows and understands cyber security theory well. Practice work documentation is done well and the presentation has been kept.
 
-Satisfactory 2: The student shows that he or she knows and understands cyber security theory basics. Practice work documentation is as required and the presentation has been kept.
+Satisfactory 2: The student shows in a theory exam that he or she knows and understands cyber security theory basics. Practice work documentation is as required and the presentation has been kept.
 
-Sufficient 1: The student shows that he or she knows and understands something cyber security theory. Practice work documentation barely passes the required level and the presentation has been kept on it.
+Sufficient 1: The student shows in a theory exam that he or she knows and understands something cyber security theory. Practice work documentation barely passes the required level and the presentation has been kept on it.
 
 Fail 0: The student does not meet the minimum criteria set for the course.
 

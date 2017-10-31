@@ -74,19 +74,19 @@ EU-ER: EUR-ACE Engineering Practice
 
 ## Sisältö / Course Contents
 
-Opintojakso sisältää eri tietoturvakontrollien suunnittelun ja toteutuksen kuvitteelliseen virtualisoituun kohdeympäristöön. Lisäksi opintojaksolla käydään läpi eri tietoturvakontrollien riippuvuuksia ja kyvykkyyksiä sekä operointia. E.g. 
-
-+ Firewalls and network segmenting
-+ Remote workers and Virtual Private Network -connections
-+ Hardening networking equipment
-+ Public Key Infrastructure
-
-The course contains design and implementation of various data security controls in a real, virtualized network environment, but with a imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations. Esimerkiksi:
+Opintojakso sisältää eri tietoturvakontrollien suunnittelun ja toteutuksen kuvitteelliseen virtualisoituun kohdeympäristöön. Lisäksi opintojaksolla käydään läpi eri tietoturvakontrollien riippuvuuksia ja kyvykkyyksiä sekä operointia. Esimerkiksi:
 
 + Palomuurit ja verkon segmentointi
 + etäyhteysratkasut työntekijöille
 + aktiivilaitteiden kovennus
 + julkisen avaimen infrastruktuuri
+
+The course contains design and implementation of various data security controls in a real, virtualized network environment, but with a imagined, non-operative business model. Additionally, the course discusses the dependencies and potentials of various data security controls as well as their operations. E.g. 
+
++ Firewalls and network segmenting
++ Remote workers and Virtual Private Network -connections
++ Hardening networking equipment
++ Public Key Infrastructure
 
 ## Opiskelumateriaali / Course Material
 

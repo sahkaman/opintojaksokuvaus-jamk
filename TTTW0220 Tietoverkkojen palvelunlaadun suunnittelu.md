@@ -127,23 +127,23 @@ Lectures
 Kurssi arvioidaan kokeen perusteella.
 
 Erinomainen 5: 
-Opiskelija osoittaa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osoittaa teoriakokeessa hallitsevansa tavallisesta poikkeavasti tietoverkkojen palvelunlaatuun liittyvän teorian. 
 Opiskelija osaa poikkeuksellisen hyvin suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Kiitettävä 4: 
-Opiskelija osoittaa hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teorian.
+Opiskelija osoittaa teoriakokeessa hallitsevansa perusteellisesti tietoverkkojen palvelunlaatuun liittyvän teorian.
 Opiskelija osaa perusteellisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Hyvä 3: 
-Opiskelija osoittaa hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osoittaa teoriakokeessa hallitsevansa monipuolisesti tietoverkkojen palvelunlaatuun liittyvän teorian. 
 Opiskelija osaa monipuolisesti suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Tyydyttävä 2: 
-Opiskelija osoittaa hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teorian. 
+Opiskelija osoittaa teoriakokeessa hallitsevansa tietoverkkojen palvelunlaatuun liittyvän teorian. 
 Opiskelija osaa suunnitella tietoverkkojen tarvitsemat palvelunlaatuasetukset. 
 
 Välttävä 1: 
-Opiskelija osoittaa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teoriasta. 
+Opiskelija osoittaa teoriakokeessa hallitsevansa jotain tietoverkkojen palvelunlaatuun liittyvästä teoriasta. 
 Opiskelija osaa suunnitella jotain tietoverkkojen tarvitsemista palvelunlaatuasetuksista. 
 
 Hylätty 0: Ei hallitse aihealuetta
@@ -151,23 +151,23 @@ Hylätty 0: Ei hallitse aihealuetta
 The course is evaluated with a theory exam.
 
 Excellent 5:
-The student shows that he or she knows and understands Quality of Service in data networks exceptionally. 
+The student shows in a theory exam that he or she knows and understands Quality of Service in data networks exceptionally. 
 The student can exceptionally design Quality of Service settings needed in data networks.
 
 Very good 4: 
-The student shows that he or she knows and understands Quality of Service in data networks very well. 
+The student shows in a theory exam that he or she knows and understands Quality of Service in data networks very well. 
 The student can commendably design the Quality of Service settings needed in data networks.
 
 Good 3: 
-The student shows that he or she knows and understands Quality of Service in data networks well. 
+The student shows in a theory exam that he or she knows and understands Quality of Service in data networks well. 
 The student can design the Quality of Service settings needed in data networks.
 
 Satisfactory 2: 
-The student shows that he or she knows and understands basics of Quality of Service in data networks. 
+The student shows in a theory exam that he or she knows and understands basics of Quality of Service in data networks. 
 The student can design the basic Quality of Service settings needed in data networks.
 
 Sufficient 1: 
-The student shows that he or she knows and understands something about Quality of Service in data networks.
+The student shows in a theory exam that he or she knows and understands something about Quality of Service in data networks.
 The student can design some Quality of Service settings needed in data networks.
 
 Fail 0: The student does not meet the criteria set for the course.
