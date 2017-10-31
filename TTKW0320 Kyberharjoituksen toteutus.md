@@ -58,7 +58,7 @@ TTZC0600 Cyber Security
 
 ## Tavoite eli oppimistulokset / Learning Outcomes
 
-Opiskelija osallistuu kyberharjoitukseen roolissaan. Tavoitteena on saada käytännön kokemus sähköisessä ympäristössä tapahtuvasta laajamittaisesta hyökkäyksestä yrityksen infrastruktuuriin joko hyökkääjän, puolustajan tai harjoituksen järjestäjän roolista. Roolit suunnitellaan moduulin toisella kurssilla ”Kyberharjoituksen suunnittelu ja valmistelu”. 
+Opiskelija osallistuu kyberharjoitukseen roolissaan. Tavoitteena on saada käytännön kokemus sähköisessä ympäristössä tapahtuvasta laajamittaisesta hyökkäyksestä yrityksen infrastruktuuriin joko hyökkääjän, puolustajan tai harjoituksen järjestäjän roolista. Roolit suunnitellaan moduulin toisella opintojaksolla ”Kyberharjoituksen suunnittelu ja valmistelu”. 
 
 The student participates in the cyber exercise in his (her) role. The objective is to get practical experience in wide-scale attack towards a company infrastructure in electronic environment in the role of attacker, defender or organizer of the exercise. The roles are designed during the second course of the module, “Design and preparation of a cyber exercise”. 
 
@@ -126,21 +126,21 @@ Group assignment and cyber exercise
 
 ## Arviointimenetelmät ja -kriteerit / Assessment Methods and Criteria
 
-Suoritettu
-Opiskelija osallistuu kyberharjoitukseen ja siihen liittyvään ryhmätyöhön.
+Hyväksytty
+Opiskelija osallistuu kyberharjoitukseen ja osaa toimia siinä hänelle määritellyssä roolissa sekä siihen liittyvään ryhmätyöhön.
 
-Ei suoritettu
-Opiskelija ei osallistu kyberharjoitukseen eikä siihen liittyvään ryhmätyöhön.
+Hylätty
+Opiskelija ei osallistu kyberharjoitukseen hänelle määritellyssä roolissa eikä siihen liittyvään ryhmätyöhön.
 
 Passed
-The student participates in the cyber exercise and the group assignment before and after it.
+The student participates in the cyber exercise in the role defined for him/her and the group assignment related to it.
 
 Not Passed
-The student doesn't participate in the cyber exercise nor group assignment before and after it.
+The student doesn't participate in the cyber exercise in the role defined for him/her nor group assignment related to it.
 
 ## Arviointiasteikko / Grading Scale
 
-Suoritettu, ei suoritettu.
+Hyväksytty, hylätty.
 
 Passed, Not Passed.
 
