@@ -26,7 +26,7 @@ Bachelor’s degree
 
 3. vuosi, 1. lukukausi ja 2. lukukausi
 
-3rd year, 1st semester and 2nd semester
+3rd year, 1st and 2nd semester
 
 ## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
@@ -50,7 +50,7 @@ TTTS0600 Yritysverkot
 TTTS0400 Linux Servers (tai Windows)
 TTZC0600 Cyber Security
 
-TTTS0600 Corporation Networks
+TTTS0600 Corporate Networks
 TTTS0400 Linux Servers (or Windows)
 TTZC0600 Cyber Security
 
@@ -60,7 +60,7 @@ TTZC0600 Cyber Security
 
 Opiskelija hallitsee keskeisimmät kyberharjoituksen suunnitteluun ja valmisteluun liittyvät osa-alueet: käsitteet, käytetyt toteutustavat ja yleiseen harjoitukseen liittyvät rakenteelliset asiat. Lisäksi opiskelija hallitsee harjoituksen suunnittelun periaatteet ja osaa suunnitella yrityksen henkilöstölle sopivan harjoitusmallin. 
 
-The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable exercise model for the personnel.of the company.
+The student masters the most essential content for design and implementation of a cyber exercise: concepts, utilized implementation methods and general information on the structure of an exercise. In addition, the student masters the exercise design principles and is able to design a suitable exercise model for the personnel of the company.
 
 ## Osaamiset / Competences
 
@@ -96,7 +96,7 @@ Tentti 25%
 Harjoitustyö 75%
 
 Exam 25%
-Assignments 75%
+Assignment 75%
 
 ## Opintojakson kuormittavuus tunteina / Student Workload in Hours
 
