@@ -26,7 +26,7 @@ Bachelor’s degree
 
 3. vuosi, 3. lukukausi ja 4. lukukausi
 
-3rd year, 3rd semester and 4th semester
+3rd year, 3rd and 4th semester
 
 ## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
@@ -42,7 +42,7 @@ Finnish
 
 Tietoverkkojen perusteet. Reititys ja kytkentäosaaminen. Käyttöjärjestelmien ja palvelimien osaaminen. Yritysverkkojen ja operaattoriverkkojen teknologioiden ymmärtäminen.
 
-Basics of Data Networks. Understanding of Routing and Switching. Knowledge of Operating Systems and Servers. Corporate and ISP networks.
+Basics of Data Networks. Understanding of Routing and Switching. Knowledge of Operating Systems and Servers. Understanding of Technologies used in corporate and ISP networks.
 
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
@@ -60,7 +60,7 @@ TTTW0230 Designing Quality of Service in a Data Network
 
 Opiskelija osaa suunnitella ja implementoida laajan operaattoriverkon. Opiskelija osaa implementoida operaattoriverkkoonsa tarpeelliset palvelunlaadun asetukset asiakkaita varten.  
 
-Students can design and implement a large Internet Service Provider network. The Student can implement Quality of Service -settings to his/her network based on customer needs.
+Students can design and implement a large Internet Service Provider network. Students can implement Quality of Service settings to their network based on customer needs.
 
 ## Osaamiset / Competences
 
@@ -146,7 +146,7 @@ Opiskelija osaa toteuttaa jotain tietoverkkojen tarvitsemista palvelunlaatuasetu
 
 Hylätty 0: Ei hallitse aihealuetta
 
-The course is evaluated by written reports based on the group assignments. Peer- & Self-evaluation is given by students based on the performance within the group.
+The course is evaluated based on written reports on the group assignments. Peer & Self-evaluation is given by students based on the performance within the group.
 
 Excellent 5:
 The student shows in the group assignment that he or she knows and can implement Quality of Service in data networks exceptionally. 
