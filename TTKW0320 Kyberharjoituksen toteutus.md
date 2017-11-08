@@ -26,7 +26,7 @@ Bachelor’s degree
 
 3. vuosi, 3. lukukausi ja 4. lukukausi
 
-3rd year, 3rd semester and 4th semester
+3rd year, 3rd and 4th semester
 
 ## Opintopisteet (ECTS)	/ Number of ECTS Credits
 
