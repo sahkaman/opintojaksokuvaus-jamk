@@ -42,7 +42,7 @@ Finnish
 
 Opiskelijalla täytyy olla suuntautumisen ammatilliset opinnot suoritettu hyväksytysti, jotta opiskelijalla on edellytykset opintojakson suorittamiseen. Tietoperusta koostuu yrityverkkojen teorian ja käytänteiden osaamisesta, eri verkkoteknologioiden osaamisesta sekä palvelinkäyttöjärjestelmien tuntemisesta ja käytännön osaamisesta. Kyberharjoituksen suunnittelu ja valmistelu -kurssi pitää olla suoritettuna.
 
-The student must have completed his (her) professional studies of his (her) specialization option in order to participate in the course. The knowledge is based on theory on Company Networks and practices, knowledge and practices of various network technologies and server operating systems. Completion Designing and Preparing a Cyber Exercise –course is required.
+The student must have completed his (her) professional studies of his (her) specialization option in order to participate in the course. The knowledge is based on theory on Company Networks and practices, knowledge and practices of various network technologies and server operating systems. Completion Designing and Preparing a Cyber Exercise course is required.
 
 ## Suositeltavat muut opintojaksot / Recommended optional programme components
 
@@ -60,7 +60,7 @@ TTZC0600 Cyber Security
 
 Opiskelija osallistuu kyberharjoitukseen roolissaan. Tavoitteena on saada käytännön kokemus sähköisessä ympäristössä tapahtuvasta laajamittaisesta hyökkäyksestä yrityksen infrastruktuuriin joko hyökkääjän, puolustajan tai harjoituksen järjestäjän roolista. Roolit suunnitellaan moduulin toisella opintojaksolla ”Kyberharjoituksen suunnittelu ja valmistelu”. 
 
-The student participates in the cyber exercise in his (her) role. The objective is to get practical experience in wide-scale attack towards a company infrastructure in electronic environment in the role of attacker, defender or organizer of the exercise. The roles are designed during the second course of the module, “Design and preparation of a cyber exercise”. 
+The student participates in the cyber exercise in his (her) role. The objective is to get practical experience in a wide-scale attack towards a company infrastructure in electronic environment in the role of attacker, defender or organizer of the exercise. The roles are designed during the second course of the module, “Design and preparation of a cyber exercise”. 
 
 ## Osaamiset / Competences
 
@@ -70,7 +70,7 @@ EU-MJ: EUR-ACE Päätöksenteko
 
 EU-CT: EUR-ACE Communication and Team-working
 EU-EN: EUR-ACE Engineering Analysis
-EU-MJ: EUR-ACE Making Judgements
+EU-MJ: EUR-ACE Decision Making
 
 ## Sisältö / Course Contents
 
