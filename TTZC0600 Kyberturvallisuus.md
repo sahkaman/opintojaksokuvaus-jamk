@@ -12,11 +12,11 @@ TTZC0600
 
 ## Tyyppi / Type of Course Unit:
 
-Tutkinnon ydinopinnot (S)
+Core Studies (S) Tutkinnon ydinopinnot (S)
 
 ## Kohderyhmä/Taso / Target Group/Level of Course Unit	
 
-AMK-tutkinto
+Bachelor's degree AMK-tutkinto
 
 ## Suositeltava opintovuosi ja lukukausi / Recommended Year of Study and Semester
 
@@ -41,7 +41,7 @@ Finnish
 TTZC0500 Digital Technology
 TTZC0800 Databases
 TTZC0200 Basics of Programming
-TTZC0100 Introduction into Internet Technologies
+TTZC0100 Introduction to Internet Technologies
 
 
 TTZC0100 Johdatus Internet teknologioihin
@@ -55,7 +55,7 @@ TTZC0200 Ohjelmoinnin perusteet
 
 Opiskelija hallitsee keskeisimmät kyberturvallisuuteen liittyvät osa-alueet: käsitteet (luottamuksellisuus, eheys ja saatavuus), standardit ja vaatimukset. Opiskelija tutustuu teknisiin algoritmitmeihin ohjelmoinnissa, joilla taataan tiedon eheys. Opiskelija tuntee yleiset tietoliikenteessä käytetyt turvamekanismit luotettavuuteen ja saatavuuteen liittyen. Opiskelija pystyy analysoimaan hyökkäystyökalujen vaikutukset yrityksen liiketoimintaan. Opiskelija hallitsee turvallisuuden suunnittelun periaatteet ja osaa suunnitella yritykselle sopivat tietoturvakontrollit.
 
-The student masters the most essential areas of cyber security: concepts (confidentiality, integrity and availability), standards and requirements. The student studies technical algorithms in programming, which assures the integrity of data. The student knows the most common security mechanisms concerning reliability and availability in telecommunication. The student can analyze the effect of attack tools on the business of a company. The student masters the principles regarding security design and is able to design suitable data security controls for a company.
+The student masters the most essential areas of cyber security: concepts (confidentiality, integrity and availability), standards and requirements. The student studies technical algorithms in programming, which assure the integrity of data. The student knows the most common security mechanisms concerning reliability and availability in telecommunication. The student can analyze the effect of attack tools on the business of a company. The student masters the principles regarding security design and is able to design suitable data security controls for a company.
 
 ## Osaamiset	
 
@@ -109,7 +109,7 @@ face-to-face learning and distance learning
 
 Luennot, käytännön harjoitukset ja harjoitustyö
 
-Lectures, practical exercises and an assignment
+Lectures, practical exercises and a course assignment
 
 # MITEN OPISKELLAAN / HOW LEARNING/STUDYING IS CARRIED OUT
 
@@ -127,15 +127,15 @@ Välttävä 1: Opiskelija osoittaa teoriakokeessa hallitsevansa jotain kyberturv
 
 Hylätty 0: Ei hallitse aihealuetta.
 
-Excellent 5: The student shows in a theory exam that he or she knows and understands cyber security theory exceptionally. Practice work documentation is thorough, flawless and understandable. Presentation on the practice work has been given fluently.
+Excellent 5: The student shows in a theory exam that he or she knows and understands cyber security theory exceptionally. The course assignment documentation is thorough, flawless and understandable. Presentation on the course assignment has been given fluently.
 
-Very good 4: The student shows in a theory exam that he or she knows and understands cyber security theory very well. Practice work documentation is thorough and the presentation has been given fluently.
+Very good 4: The student shows in a theory exam that he or she knows and understands cyber security theory very well. The course assignment documentation is thorough and the presentation has been given fluently.
 
-Good 3: The student shows in a theory exam that he or she knows and understands cyber security theory well. Practice work documentation is done well and the presentation has been given.
+Good 3: The student shows in a theory exam that he or she knows and understands cyber security theory well. The course assignment  documentation is done well and the presentation has been given.
 
-Satisfactory 2: The student shows in a theory exam that he or she knows and understands cyber security theory basics. Practice work documentation is as required and the presentation has been given.
+Satisfactory 2: The student shows in a theory exam that he or she knows and understands cyber security theory basics. The course assignment  documentation is as required and the presentation has been given.
 
-Sufficient 1: The student shows in a theory exam that he or she knows and understands something about cyber security theory. Practice work documentation barely passes the required level and the presentation has been given on it.
+Sufficient 1: The student shows in a theory exam that he or she knows and understands something about cyber security theory. course assignment documentation barely passes the required level and the presentation has been given on it.
 
 Fail 0: The student does not meet the minimum criteria set for the course.
 
