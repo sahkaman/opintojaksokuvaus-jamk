@@ -60,7 +60,7 @@ TTTW0230 Implementing Quality of Service in a Data Network
 
 Opiskelija osaa teorian keskeisimmistä tietoverkkojen palvelunlaadusta. Lisäksi opiskelija osaa suunnitella tietoverkkoon palvelunlaadun asetukset. 
 
-Students knows the theory of Quality of Service in data networks. The Student also knows how to design the Quality of Service settings to a Data Network.
+The student knows the theory of Quality of Service in data networks. The student also knows how to design the Quality of Service settings to a Data Network.
 
 ## Osaamiset / Competences
 
@@ -76,7 +76,7 @@ EU-EE: EUR-ACE Engineering Design
 
 Opintojakso sisältää yleisesti käytetyt tietoverkkojen palvelunlaadun mekanismit, kuten merkkaus, muokkaus, jonotus ja ruuhkanhallinta. Lisäksi syvennetään operaattoriteknologioihin, joissa palvelunlaatuasetuksia tarvitaan, kuten televisiokuvan monilähetys Internet Protokollassa (multicast) ja äänen välitys Internet Protokollassa (VoIP). Kurssissa myös syvennytään operaattorien runkoverkkoteknologioihin.
 
-The course includes the commonly used Quality of Service mechanisms like marking, shaping/limiting, queueing and congestion control. Also the course delves more deeply into ISP networks where Quality of Service settings are needed such as Multicasting broadcast television and Voice over Internet Protocol. Thus we also study more of ISP core network technologies.
+The course includes the commonly used Quality of Service mechanisms such as marking, shaping/limiting, queueing and congestion control. In addition, the course delves more deeply into ISP networks where Quality of Service settings are needed such as Multicasting broadcast television and Voice over Internet Protocol. Thus we also study more of ISP core network technologies.
 
 ## Opiskelumateriaali / Course Material
 
@@ -151,8 +151,8 @@ Hylätty 0: Ei hallitse aihealuetta
 The course is evaluated with a theory exam.
 
 Excellent 5:
-The student shows in a theory exam that he or she knows and understands Quality of Service in data networks exceptionally. 
-The student can exceptionally design Quality of Service settings needed in data networks.
+The student shows in a theory exam that he or she knows and understands Quality of Service in data networks exceptionally well. 
+The student can exceptionally well design Quality of Service settings needed in data networks.
 
 Very good 4: 
 The student shows in a theory exam that he or she knows and understands Quality of Service in data networks very well. 
@@ -160,10 +160,10 @@ The student can commendably design the Quality of Service settings needed in dat
 
 Good 3: 
 The student shows in a theory exam that he or she knows and understands Quality of Service in data networks well. 
-The student can design the Quality of Service settings needed in data networks.
+The student can design the Quality of Service settings needed in data networks versatilely.
 
 Satisfactory 2: 
-The student shows in a theory exam that he or she knows and understands basics of Quality of Service in data networks. 
+The student shows in a theory exam that he or she knows and understands the basics of Quality of Service in data networks. 
 The student can design the basic Quality of Service settings needed in data networks.
 
 Sufficient 1: 
