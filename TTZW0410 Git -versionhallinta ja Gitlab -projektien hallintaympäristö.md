@@ -8,7 +8,7 @@ Git -version control and Gitlab -project management environment
 
 ## Koodi / Course Unit Code
 
-TTZWxxxx?
+TTZW0410
 
 ## Tyyppi / Type of Course Unit:
 
