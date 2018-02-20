@@ -147,6 +147,8 @@ Accreditation procedures are described in the Degree Regulations and Study Guide
 
 # LISÄTIEDOT / ADDITIONAL INFORMATION
 
+https://gitlab.labranet.jamk.fi/sahka/gitlab-opintojakso
+
 ## Vastuuhenkilö / Lecturer in Charge
 
 Karo Saharinen
@@ -161,10 +163,12 @@ Technology
 
 ## Päivitetty / Updated
 
-10.02.2018
+20.02.2018
 
 ## Aikaisemmat versiot / Previous Versions
 
-10.02.2018
+19.02.2018
 
 ## Uusin versio / Newest Version
+
+20.02.2018
